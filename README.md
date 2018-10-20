@@ -1,4 +1,4 @@
-# Projects from Data100: Principles and Techniques of Data Science
+# Projects from Data 100
 
 ## Project 1: Analyzing Trump's Tweets
 A fun and relevant project where we analyzed various trends in Trump's tweeting habits.
